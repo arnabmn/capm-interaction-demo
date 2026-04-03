@@ -23,3 +23,5 @@ File or Folder | Purpose
 ## Learn More
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
+
+https://emea.cockpit.btp.cloud.sap/cockpit/#/globalaccount/CA160297TID000000000741556085/accountModel
